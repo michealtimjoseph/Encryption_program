@@ -33,7 +33,6 @@ The **Encrypt and Decrypt Program** is a simple GUI-based application built usin
 - Python 3.x
 - `tkinter` library (comes pre-installed with Python)
 - No additional dependencies are required.
-
 ---
 
 ## Code Structure
@@ -55,7 +54,6 @@ The **Encrypt and Decrypt Program** is a simple GUI-based application built usin
 The Caesar cipher is a substitution cipher that shifts each letter in the plaintext by a fixed number of positions in the alphabet. For example:
 - **Encryption**: A shift of 3 turns "A" into "D".
 - **Decryption**: A shift of -3 turns "D" back into "A".
-- 
 ---
 
 ## Tutorials and Resources
