@@ -80,3 +80,5 @@ This project is open-source and free to use.
 ## Author
 Developed by **Micheal Tim Joseph Enriquez**.  
 GitHub Profile: [MichealTimJosephEnriquez](https://github.com/michealtimjoseph)
+
+Instructed by: Mr. Sigred Tong
